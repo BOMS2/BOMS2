@@ -1,6 +1,6 @@
 ### Hi there, I'm Bomin 👋
 
-> 🌱 I’m currently learning [Swift](https://swift.org/){: target="_blank"}
+> 🌱 I’m currently learning [Swift](https://swift.org/){: target="_black"}
 
 > 💬 Ask me about anything by my email 👇
 

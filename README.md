@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOMS2)](https://github.com/BOMS2/Top-Languages)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BOMS2)](https://github.com/BOMS2)
+

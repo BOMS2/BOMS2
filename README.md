@@ -1,7 +1,9 @@
 ### Hi there, I'm Bomin 👋
 
 > 🌱 I’m currently learning Swift
+
 > 💬 Ask me about anything by my email 👇
+
 > 📫 How to reach me: kbm97121@naver.com
 <!--
 **BOMS2/BOMS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

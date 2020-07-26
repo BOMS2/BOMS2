@@ -1,7 +1,7 @@
 ### Hi there, I'm Bomin 👋
 
-> 🌱 I’m currently learning [Swift] [swift_site] 
-[swift_site] : https://swift.org/
+> 🌱 I’m currently learning [Swift](https://swift.org/)
+
 > 💬 Ask me about anything by my email 👇
 
 > 📫 How to reach me: kbm97121@naver.com

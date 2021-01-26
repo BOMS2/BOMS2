@@ -1,8 +1,7 @@
 ### Hi there, I'm Bomin 👋
 
-- 🌱 I’m currently learning [Swift](https://swift.org)
-- 💬 Ask me about anything by my email 👇
-- 📫 How to reach me: kbm97121@gmail.com
+- 🌱 I’m currently learning [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1) [Swift](https://swift.org) [RxSwift](https://github.com/ReactiveX/RxSwift)
+
 <!--
 **BOMS2/BOMS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

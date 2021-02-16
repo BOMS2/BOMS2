@@ -1,4 +1,4 @@
-### Hi there, I'm Bomin 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
 <h3 align="center"> ❄️ TECH ❄️ </h3>
 <p align="center"> <img src="https://img.shields.io/badge/Developer-000000?style=flat-square&logo=iOS&logoColor=white"/></a> </p>

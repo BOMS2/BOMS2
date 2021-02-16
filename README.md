@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOMS2)](https://github.com/BOMS2) </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOMS2)](https://github.com/BOMS2)
 
 
 

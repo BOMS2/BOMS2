@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200)
 
 <h3 align="center"> ❄️ TECH ❄️ </h3>
 <p align="center"> <img src="https://img.shields.io/badge/Developer-000000?style=flat-square&logo=iOS&logoColor=white"/></a> </p>
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)

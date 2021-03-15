@@ -5,8 +5,8 @@
 <p align="center"> I’m currently learning </p>
 <p align="center"> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a> <img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=Apple&logoColor=black"/></a> </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOMS2&layout=compact" />
+<a href="https://github.com/BOMS2">
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOMS2&layout=compact" /></p>
 </a>
 
 <!--

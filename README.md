@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer) -->
-<h4 align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOMS2&layout=compact)](https://github.com/BOMS2)
-</h4>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOMS2&layout=compact" />
+</a>

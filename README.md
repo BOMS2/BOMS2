@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer) -->
 
 
-<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOMS2)](https://github.com/BOMS2)</div>
+ <div style="text-align:center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOMS2)](https://github.com/BOMS2) </div>

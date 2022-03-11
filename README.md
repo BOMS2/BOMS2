@@ -3,8 +3,7 @@
 <h3 align="center"> ❄️ TECH ❄️ </h3>
 <p align="center"> <img src="https://img.shields.io/badge/Developer-000000?style=flat-square&logo=iOS&logoColor=white"/></a> </p>
 <p align="center"> I’m currently learning </p>
-<p align="center"> <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="62" height="62"/> </p>
-<p align="center"> </div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="62" height="62"/></div></p>
+<p align="center"> <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="62" height="62"/><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="62" height="62"/> </p>
 
 
 <!-- 

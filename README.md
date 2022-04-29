@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/iOS Developer-000000?style=flat-square&logo=apple&logoColor=white"/></a> </p>
 <!-- <p align="center"> I’m currently learning </p> -->
 
-<p align="center"> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a> <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a> <img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=Apple&logoColor=black"/></a> <img src="https://img.shields.io/badge/SwiftUI-147EFB?style=flat-square&logo=Swift&logoColor=black"/></a></p>
+<p align="center"> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a> <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=ReactiveX&logoColor=white"/></a> <img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat&logo=Apple&logoColor=black"/></a> <img src="https://img.shields.io/badge/SwiftUI-147EFB?style=flat&logo=Swift&logoColor=black"/></a></p>
 
 
 <!--

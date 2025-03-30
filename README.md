@@ -4,11 +4,11 @@
 
 //타이틀
  <h3 align="center"> ❄️ TECH ❄️ </h3> 
--->
+
 
 
 <p align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBOMS2&count_bg=%23FAEAA0&title_bg=%23688B6A&icon=github.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a> </p>
-
+-->
 <br/> <br/>
 
 <p align="center"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="62" height="62"/> </p>
